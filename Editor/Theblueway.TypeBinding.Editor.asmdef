@@ -1,0 +1,20 @@
+{
+    "name": "Theblueway.TypeBinding.Editor",
+    "rootNamespace": "Theblueway.TypeBinding.Editor",
+    "references": [
+        "GUID:11f9f0384cd82b14ea5d004a22a3f210",
+        "GUID:83d2263415fd7224394061099a98dd39",
+        "GUID:e5502f6ef6571ba4ea9fd935ff8c576d"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

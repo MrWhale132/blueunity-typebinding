@@ -1,0 +1,17 @@
+{
+    "name": "Theblueway.TypeBinding",
+    "rootNamespace": "Theblueway.TypebBinding.Runtime",
+    "references": [
+        "GUID:11f9f0384cd82b14ea5d004a22a3f210",
+        "GUID:868b241af02c2d64d888ee6d2df251d9"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
