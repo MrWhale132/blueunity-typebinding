@@ -1,8 +1,7 @@
 ﻿
 using System;
-using Theblueway.CodeGen.Runtime;
 
-namespace Theblueway.TypeBinding.Runtime.TypeInterfaceScripts
+namespace Theblueway.TypeBinding.Editor.TypeInterfaceScripts
 {
     public class TypeMember
     {

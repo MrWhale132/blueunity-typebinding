@@ -1,7 +1,7 @@
 ﻿
 using System;
 
-namespace Theblueway.TypeBinding.Runtime.TypeInterfaceScripts
+namespace Theblueway.TypeBinding.Editor.TypeInterfaceScripts
 {
     [AttributeUsage(AttributeTargets.Field | AttributeTargets.Method, Inherited = false, AllowMultiple = false)]
     public class MemberAttribute : Attribute

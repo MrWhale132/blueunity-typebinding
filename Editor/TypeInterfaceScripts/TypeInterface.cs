@@ -6,7 +6,7 @@ using Theblueway.Core.Runtime;
 using Theblueway.Core.Runtime.Extensions;
 using UnityEngine;
 
-namespace Theblueway.TypeBinding.Runtime.TypeInterfaceScripts
+namespace Theblueway.TypeBinding.Editor.TypeInterfaceScripts
 {
     public abstract class TypeInterface<T> : TypeInterface { public static T? instance; }
 

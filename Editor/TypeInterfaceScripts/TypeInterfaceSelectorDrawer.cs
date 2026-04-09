@@ -1,5 +1,5 @@
 ﻿using System.Collections.Generic;
-using Theblueway.TypeBinding.Runtime.TypeInterfaceScripts;
+using Theblueway.TypeBinding.Editor.TypeInterfaceScripts;
 using Theblueway.Core.Editor.EditorWindows;
 using UnityEditor;
 using UnityEngine;

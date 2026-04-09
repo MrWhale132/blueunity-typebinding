@@ -1,7 +1,7 @@
 ﻿
 using System;
 
-namespace Theblueway.TypeBinding.Runtime.TypeInterfaceScripts
+namespace Theblueway.TypeBinding.Editor.TypeInterfaceScripts
 {
     [AttributeUsage(AttributeTargets.Class, Inherited = false, AllowMultiple = false)]
     public class TypeInterfaceAttribute : Attribute
