@@ -1,5 +1,5 @@
 {
-    "name": "com.blueutils.typebinding",
+    "name": "com.theblueway.typebinding",
     "version": "1.1.1",
     "displayName": "Blue TypeBinding",
     "dependencies": {
